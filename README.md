@@ -1,5 +1,5 @@
 CV Template:
-project URL:  https://github.com/user105109/HTM-PROJECTS-ROADMAP.SH/tree/main
+project URL:  https://roadmap.sh/projects/single-page-cv
 
 Simple HTML CV template. One file, no dependencies.
 How to use:
